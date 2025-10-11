@@ -1,0 +1,6 @@
+[submodule "lightning-STM32F303RE"]
+	path = lightning-STM32F303RE
+	url = git@github.com:Michal-Baculak/lightning-STM32F303RE.git
+[submodule "lightning-ESP8266"]
+	path = lightning-ESP8266
+	url = git@github.com:Michal-Baculak/lightning-ESP8266.git
